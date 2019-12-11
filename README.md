@@ -1,6 +1,6 @@
 # Magby1.github.io
 
-PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
+
 This privacy policy governs your use of the software application EDUC HAITI NOUVEAU SECONDAIRE (“Application”) for mobile devices that was created by [MAGBY DESIGN]. The Application is [BASIC DESCRIPTION OF THE APP (FEATURES, FUNCTIONALITY AND CONTENT)] 
  
 What information does the Application obtain and how is it used?
